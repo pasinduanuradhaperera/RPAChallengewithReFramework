@@ -91,6 +91,7 @@ That's it!
 Happy Automating!
 Made with ❤️ for the UiPath community
 
-<img src="https://uipath.com/cdn-cgi/image/format=auto/https:////images.ctfassets.net/5965pury2lcm/5K5FiWrn71nr0bHEYAqKlk/fe2f95aa97cc0bd100c0087f6669230b/Robot_Accent_8.png" alt="UiPath Logo" style="max-height:150px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOsTBVcL_o28NVRXpb60-uM4u_KljZ9e22g&s" style="height:150px;">
+
 
 
