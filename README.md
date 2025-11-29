@@ -12,6 +12,8 @@
 
 
 > A clean, beginner-friendly demo project that solves the **[rpachallenge.com](https://rpachallenge.com)** using the official **UiPath Robotic Enterprise Framework (REFramework)**.
+ - uipath studio version: 2026.0.181 STS
+ - License: Apache‑2.0
 
 This project is designed to be **easy to understand**, well-commented, and ready for you to edit and adapt to your own automation projects.
 
@@ -86,12 +88,13 @@ That's it!
 
 
 ## License
-[MIT License](LICENSE) – Feel free to use, modify, and share.
+[Apache‑2.0](LICENSE) – Feel free to use, modify, and share.
 
 Happy Automating!
 Made with ❤️ for the UiPath community
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOsTBVcL_o28NVRXpb60-uM4u_KljZ9e22g&s" style="height:150px;">
+
 
 
 
