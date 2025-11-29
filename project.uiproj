@@ -1,0 +1,6 @@
+{
+  "Name": "RPAChallengeProject",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework",
+  "MainFile": "Main.xaml"
+}
