@@ -2,6 +2,9 @@ go back to [README.md](README.md)
 
 **REFramework** (Robotic Enterprise Framework) is the official UiPath template for building **production-grade**, robust, scalable automations.
 
+<img src="https://uipath.com/cdn-cgi/image/format=auto/https:////images.ctfassets.net/5965pury2lcm/2m5jU6W3PE3awxPw0NT4Wn/7b01a0482ee619dcf1cd748dadce479d/Framework_overview.png" 
+     alt="UiPath Logo" height="500">
+
 #### Why REFramework is Awesome (Good Things)
 
 | Benefit                        | Explanation                                                                 |
@@ -35,4 +38,5 @@ Even for a simple challenge like rpachallenge.com, using REFramework teaches you
 ├── Project.json
 └── README.md (this file)
 ```
+
 
