@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 <img src="https://uipath.com/cdn-cgi/image/format=auto/https:////images.ctfassets.net/5965pury2lcm/5K5FiWrn71nr0bHEYAqKlk/fe2f95aa97cc0bd100c0087f6669230b/Robot_Accent_8.png" 
-     alt="UiPath Logo" height="150">
+     alt="UiPath Logo" height="200">
 <img src="https://i.pinimg.com/736x/31/4b/96/314b960aa8fee08076b6f2db5e80ca4c.jpg" 
      alt="rpachallenge.com" height="150">
      <img src="https://global.discourse-cdn.com/uipath/original/4X/b/7/a/b7ae33f10e3fd3e230956cb9153a063eb24f9e17.png" 
@@ -55,23 +55,26 @@ This project is designed to be **easy to understand**, well-commented, and ready
 ## How to Run
 
 ### !!! important :- Please Allow Uipath Extention to run on Incognito mode change if needed.
+[how to do](https://docs.uipath.com/studio/standalone/2023.10/user-guide/chrome-extension-open-browser-incognito-mode)
 ### !!! important :- This Automation Default Runs On Chrome change if Needed.
-### !!  important :- Please Create above ScreenShot Paths in your project.
 ### !   important :- Please insert the input file to your input file location.
+
+default there is the input file if you change the path only need to insert the input file there
 ```
 Open the project in UiPath Studio (2021.10 or newer recommended)
 follow the basic Uipath Web Automation prerequests
 
 Update Data\Config.xlsx → Sheet "Settings":
-   input_File → input file location
+   input_File → keep as it is or update
    Sheet_Name → default downloded file's sheet name is Sheet1
    WebsiteURL → keep as it is or update to https://rpachallenge.com/
-   ScreenShotsPath → update to you location
-   ErrorScreenShotsPath → update to you location
-   Output_Location → update to you location
+   ScreenShotsPath → keep as it is or update
+   ErrorScreenShotsPath → keep as it is or update
+   Output_Location → keep as it is or update
 
 Press Run (F5) or run it manually
-That's it!
+Ckeck the [Output_Location]("Data/Output") for the Automation Result.
+That's it! 
 ```
 
 ### Customization Tips
@@ -89,4 +92,5 @@ Happy Automating!
 Made with ❤️ for the UiPath community
 
 <img src="https://uipath.com/cdn-cgi/image/format=auto/https:////images.ctfassets.net/5965pury2lcm/5K5FiWrn71nr0bHEYAqKlk/fe2f95aa97cc0bd100c0087f6669230b/Robot_Accent_8.png" alt="UiPath Logo" style="max-height:150px;">
+
 
