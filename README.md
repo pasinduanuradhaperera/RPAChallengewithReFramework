@@ -3,16 +3,14 @@
 ![RPA Challenge](https://img.shields.io/badge/Challenge-rpachallenge.com-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-<img src="https://uipath.com/cdn-cgi/image/format=auto/https:////images.ctfassets.net/5965pury2lcm/5K5FiWrn71nr0bHEYAqKlk/fe2f95aa97cc0bd100c0087f6669230b/Robot_Accent_8.png" alt="UiPath Logo" style="max-height:150px;">
-" "
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAABJElEQVR4AYXSIYyEMBCF4efV6pVIXAUKdwqFwyCRJ0nwBofG4hOSNXhEDRKHQFUhUU0QiLkyBDj2trnfQPrREaWgW3qhX92xgTtY0QFyK9YI7TtbKLJiFJANR/mMW/UB5wpHj0bfUPcAvDgxxQKAWi+cCyAqO15ZZRkA9XJiBdSKzoYSz+bAzoV5X5XmKYq/9vsddY7EvPWiXIxlnlnWPqodexcDH8D3TDR9QW6TEY6MEo66MGBUgGRsEU2M6YWT2HGteQuNmVyJljobiae3G+oC3kRvTQ+8GHMgf8cUqFaDSwkgLsdLhiIG9rHUYssRQni+75mHgy3JOAh8KFSMJJ2/5sjj4NsE9x6pvP7n/Kric7ubVI2+XxPVy72un65rYulf/AG+ij9WBSWbJwAAAABJRU5ErkJggg==" 
-     alt="UiPath Logo" 
-     style="height:150px; width:auto;">
+<img src="https://uipath.com/cdn-cgi/image/format=auto/https:////images.ctfassets.net/5965pury2lcm/5K5FiWrn71nr0bHEYAqKlk/fe2f95aa97cc0bd100c0087f6669230b/Robot_Accent_8.png" 
+     alt="UiPath Logo" height="150">
+<img src="https://i.pinimg.com/736x/31/4b/96/314b960aa8fee08076b6f2db5e80ca4c.jpg" 
+     alt="rpachallenge.com" height="150">
+     <img src="https://global.discourse-cdn.com/uipath/original/4X/b/7/a/b7ae33f10e3fd3e230956cb9153a063eb24f9e17.png" 
+     alt="ReFrameWork" height="150">
 
-<img src="https://global.discourse-cdn.com/uipath/original/4X/b/7/a/b7ae33f10e3fd3e230956cb9153a063eb24f9e17.png" alt="UiPath Logo" style="max-height:150px;">
 
-<br>
-<br>
 > A clean, beginner-friendly demo project that solves the **[rpachallenge.com](https://rpachallenge.com)** using the official **UiPath Robotic Enterprise Framework (REFramework)**.
 
 This project is designed to be **easy to understand**, well-commented, and ready for you to edit and adapt to your own automation projects.
@@ -56,9 +54,10 @@ This project is designed to be **easy to understand**, well-commented, and ready
 
 ## How to Run
 
-### !!! important :- Please Allow Uipath Extention to run on Incognito mode.
-### !! important :- Please Create above ScreenShot Paths in your project.
-### ! important :- Please insert the input file to your input file location.
+### !!! important :- Please Allow Uipath Extention to run on Incognito mode change incognito mode if needed.
+### !!! important :- This Automation Default Runs On Chrome change if Needed.
+### !!  important :- Please Create above ScreenShot Paths in your project.
+### !   important :- Please insert the input file to your input file location.
 ```
 Open the project in UiPath Studio (2021.10 or newer recommended)
 follow the basic Uipath Web Automation prerequests
