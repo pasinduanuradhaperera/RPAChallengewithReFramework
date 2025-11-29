@@ -54,7 +54,7 @@ This project is designed to be **easy to understand**, well-commented, and ready
 
 ## How to Run
 
-### !!! important :- Please Allow Uipath Extention to run on Incognito mode change incognito mode if needed.
+### !!! important :- Please Allow Uipath Extention to run on Incognito mode change if needed.
 ### !!! important :- This Automation Default Runs On Chrome change if Needed.
 ### !!  important :- Please Create above ScreenShot Paths in your project.
 ### !   important :- Please insert the input file to your input file location.
@@ -89,3 +89,4 @@ Happy Automating!
 Made with ❤️ for the UiPath community
 
 <img src="https://uipath.com/cdn-cgi/image/format=auto/https:////images.ctfassets.net/5965pury2lcm/5K5FiWrn71nr0bHEYAqKlk/fe2f95aa97cc0bd100c0087f6669230b/Robot_Accent_8.png" alt="UiPath Logo" style="max-height:150px;">
+
