@@ -62,7 +62,7 @@ This project is designed to be **easy to understand**, well-commented, and ready
 default there is the input file if you change the path only need to insert the input file there
 ```
 Open the project in UiPath Studio (2021.10 or newer recommended)
-follow the basic Uipath Web Automation prerequests
+follow the basic Uipath Web Automation prerequisites
 
 Update Data\Config.xlsx → Sheet "Settings":
    input_File → keep as it is or update
@@ -92,6 +92,7 @@ Happy Automating!
 Made with ❤️ for the UiPath community
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOsTBVcL_o28NVRXpb60-uM4u_KljZ9e22g&s" style="height:150px;">
+
 
 
 
